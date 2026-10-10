@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/encode/databases/commit/ae3fb16f40201d9ed0ed31bea31a289127169568",
       "git:hexsha": "ae3fb16f40201d9ed0ed31bea31a289127169568",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.9.0"
     },
     {
